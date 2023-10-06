@@ -1,0 +1,24 @@
+*{
+   font: poppins; 
+}
+#background{
+    background-color: black;
+}
+.logo img{
+    top: 21px;
+    left: 94px;
+}
+#nav-1 {
+       padding-left: 750px;
+}
+#nav-1 a{
+    padding: 0px 15px;
+}
+.sec-2{
+    text-align: center;
+    justify-content: space-between;
+    
+}
+.logos img{
+    padding: 40px 35px;
+}
